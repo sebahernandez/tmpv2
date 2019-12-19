@@ -14,6 +14,16 @@
 // LG - Large devices (desktops, 992px and up)
 @media (min-width: 992px) { 
 
+    #home-carousel .carousel-item{
+        height: 540px;
+    }
+    #home-carousel .carousel-caption > h5{
+        font-size:2rem;
+    }
+
+    #home-carousel .carousel-caption > p{
+        font-size:1.25rem;
+    }
 }
 
 // XL - Extra large devices (large desktops, 1200px and up)
